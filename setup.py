@@ -8,9 +8,9 @@ setup(
     description = '''Template for my django applications.''',
     keywords = 'django apps',
     license = 'New BSD License',
-    author = 'Alexander Artemenko',
-    author_email = 'svetlyak.40wt@gmail.com',
-    url = 'http://github.com/svetlyak40wt/django-app-template/',
+    author = 'Roman Dolgiy',
+    author_email = 'tosters@gmail.com',
+    url = 'http://github.com/t0ster/django-app-template/',
     install_requires = [],
     dependency_links = [],
     classifiers=[
